@@ -70,7 +70,7 @@ if the user has entered "M" or "Male" as an input. Or else, print
 "Invalid Input" instead
 
 1. Ask user for input
-2. If user input is "M" OR "Male", print "Valid Input"
+2. If user input "M" or "Male", print "Valid Input"
 3. Else, print "Invalid Input"
 
 --------------------------------------------------------------------
